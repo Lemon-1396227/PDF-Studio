@@ -1,0 +1,21 @@
+# Build & Android artifacts
+.gradle/
+build/
+app/build/
+android-app/build/
+android-app/app/build/
+*.apk
+*.aab
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
